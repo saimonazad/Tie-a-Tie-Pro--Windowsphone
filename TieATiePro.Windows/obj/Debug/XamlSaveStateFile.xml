@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\users\asus\desktop\new folder (2)\packages\windowsappstudio.common.0.1.0\lib\portable-win81+wpa81\appstudio.common.dll" HashGuid="c4d06a26-14f9-f329-0c49-0db822a0aeda" />
+    <ReferenceAssembly PathName="c:\users\asus\desktop\new folder (2)\packages\windowsappstudio.dataproviders.0.1.0\lib\portable-win81+wpa81\appstudio.dataproviders.dll" HashGuid="783b8c65-7b1c-65b8-a235-1e101d8996c0" />
+    <ReferenceAssembly PathName="c:\users\asus\desktop\new folder (2)\packages\htmlagilitypack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+monoandroid+monotouch\htmlagilitypack.dll" HashGuid="365e4636-8cbf-8d2d-3790-d3267e801443" />
+    <ReferenceAssembly PathName="c:\users\asus\desktop\new folder (2)\packages\newtonsoft.json.6.0.8\lib\portable-net45+wp80+win8+wpa81+aspnetcore50\newtonsoft.json.dll" HashGuid="a6815119-bde8-2bdd-8acf-133f32c00b94" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
